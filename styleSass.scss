@@ -1,0 +1,15 @@
+@import './style.css';
+@import '~bootstrap/dist/css/bootstrap.css';
+
+$color: pink;
+
+
+#test{
+    background-color:$color;
+    height: 100vh;
+
+}
+
+img{
+    margin: 20px;
+}
